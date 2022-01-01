@@ -4,7 +4,7 @@ export default (_data) => {
         onLoad() {
             nitin = cumcord.patcher.injectCSS(`
                 img {
-                    content:url("../../assets/nitin.png");
+                    content:url("https://x1nto.github.io/CumcordPlugins/assets/nitin.jpg");
                 }
             `);
         },
