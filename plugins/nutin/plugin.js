@@ -1,6 +1,6 @@
 (function(n){"use strict";var e=i=>{let t;return{onLoad(){t=n.injectCSS(`
         img {
-          content: url("https://x1nto.github.io/CumcordPlugins/assets/${Math.floor(Math.random()*2)}.png");
+          content: url("https://x1nto.github.io/CumcordPlugins/assets/nitin${Math.floor(Math.random()*2)}.png");
         }
         .markup-2BOw-j.messageContent-2qWWxC {
           text-indent: -9999px;
