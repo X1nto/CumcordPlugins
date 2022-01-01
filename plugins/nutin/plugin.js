@@ -1,5 +1,5 @@
-(function(){"use strict";var t=e=>{let n;return{onLoad(){n=cumcord.patcher.injectCSS(`
+(function(){"use strict";var n=i=>{let t;return{onLoad(){t=cumcord.patcher.injectCSS(`
                 img {
-                    content:url("../../assets/nitin.png");
+                    content:url("https://x1nto.github.io/CumcordPlugins/assets/nitin.jpg");
                 }
-            `)},onUnload(){n()}}};return t})();
+            `)},onUnload(){t()}}};return n})();
