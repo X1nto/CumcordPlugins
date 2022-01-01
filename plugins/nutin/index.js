@@ -6,7 +6,7 @@ export default (_data) => {
     onLoad() {
       nitin = injectCSS(`
         img {
-          content: url("https://x1nto.github.io/CumcordPlugins/assets/${Math.floor(Math.random() * 2)}.jpg");
+          content: url("https://x1nto.github.io/CumcordPlugins/assets/${Math.floor(Math.random() * 2)}.png");
         }
         .markup-2BOw-j.messageContent-2qWWxC {
           text-indent: -9999px;
