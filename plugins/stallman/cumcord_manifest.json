@@ -1,0 +1,7 @@
+{
+  "name": "Stallman",
+  "description": "Sends the stallman copypasta with your desired word in place of \"Linux\".",
+  "author": "Xinto",
+  "file": "index.js",
+  "license": "MIT"
+}
