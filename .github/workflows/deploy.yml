@@ -29,7 +29,7 @@ jobs:
                   mkdir .dist
                   for plugin in plugins/*/
                   do
-                    cd "$plugin"
+                    cd "plugins/$plugin"
                     sperm build --outdir "../../.dist/$plugin"
                     cd ..
                   done
